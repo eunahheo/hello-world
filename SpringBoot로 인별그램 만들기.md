@@ -42,7 +42,7 @@ CRUD Operation
 
 ### Dependencies
 
-   <img width="300" alt="springboot dependencies" src="https://user-images.githubusercontent.com/63037344/147020324-82c6ef1a-91be-418f-ad97-12051642996c.png">
+   <img width="500" alt="springboot dependencies" src="https://user-images.githubusercontent.com/63037344/147020324-82c6ef1a-91be-418f-ad97-12051642996c.png">
 
 - Spring Web : Rest 형태
 - H2 Database : 컴퓨터에 내장된 램(RAM)메모리에 의존하는 데이터베이스, localhost:8080/h2-console

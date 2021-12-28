@@ -47,7 +47,7 @@ CRUD Operation
 - Spring Web : Rest 형태
 - H2 Database : 컴퓨터에 내장된 램(RAM)메모리에 의존하는 데이터베이스, localhost:8080/h2-console
 - Spring Data JPA : JPA라는 ORM 객체 릴레이션 맵핑 라이브러리를 이용해서 객체를 저장
-- DebTools : 소스가 바뀌면 동적으로 서버가 재기동 되는 것을 도와준다.
+- Spring Boot DevTools : 소스가 바뀌면 동적으로 서버가 재기동 되는 것을 도와준다.
 - Lombok : 소스의 간결화 및 가용성을 돕는다.
 
 _Lombok? Java 라이브러리이다._
